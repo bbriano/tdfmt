@@ -12,7 +12,7 @@ Use
 ---
 
 	from datetime import timedelta
-	from tdfmt import tdfmt
+	from tdfmt.tdfmt import tdfmt
 
 	print(tdfmt(timedelta(hours=3, minutes=14, seconds=15, microseconds=926535)))  # 3h14m15.926535s
 	print(tdfmt(timedelta(hours=4, minutes=20)))                                   # 4h20m0s

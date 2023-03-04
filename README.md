@@ -3,6 +3,14 @@ tdfmt
 
 tdfmt is a concise timedelta formatter
 
+Install
+-------
+
+	pip install tdfmt
+
+Use
+---
+
 	from datetime import timedelta
 	from tdfmt import tdfmt
 

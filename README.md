@@ -1,7 +1,7 @@
 tdfmt
 =====
 
-tdfmt is a concise timedelta formatter
+tdfmt formats datetime.timedelta
 
 Install
 -------

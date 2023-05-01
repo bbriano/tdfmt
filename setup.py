@@ -5,10 +5,10 @@ with open("README.md") as f:
 
 setup(
 	name="tdfmt",
-	version="0.0.3",
+	version="0.0.4",
 	author="Briano Goestiawan",
 	author_email="b@briano.io",
-	description="tdfmt is a concise timedelta formatter",
+	description="tdfmt formats datetime.timedelta",
 	long_description=long_description,
 	long_description_content_type="text/markdown",
 	url="https://github.com/bbriano/tdfmt",
